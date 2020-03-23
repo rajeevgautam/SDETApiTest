@@ -1,0 +1,32 @@
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.deps.json
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.runtimeconfig.json
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.runtimeconfig.dev.json
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.dll
+C:\SDET Test\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.pdb
+C:\SDET Test\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.csprojAssemblyReference.cache
+C:\SDET Test\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.csproj.CoreCompileInputs.cache
+C:\SDET Test\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.AssemblyInfoInputs.cache
+C:\SDET Test\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.AssemblyInfo.cs
+C:\SDET Test\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.dll
+C:\SDET Test\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.pdb
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.deps.json
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.runtimeconfig.json
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.runtimeconfig.dev.json
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.dll
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\SDETApiTest.pdb
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.AssemblyInfo.cs
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.dll
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.pdb
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\testParameters.json
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\bin\Debug\netcoreapp2.1\TestData\CarsRepository.json
+C:\Users\user\Documents\Tests\SDETTestAnglo\SDETApiTest\SDETApiTest\obj\Debug\netcoreapp2.1\SDETApiTest.csprojAssemblyReference.cache
