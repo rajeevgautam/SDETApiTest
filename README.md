@@ -1,2 +1,2 @@
 # SDETApiTest
-Bdd tests for car api 
+Bdd tests in specflow C# for car api 
